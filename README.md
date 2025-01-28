@@ -36,14 +36,12 @@ The dataset contains the following columns:
 ## Questions Answered
 1. Which month had the highest sales and orders?
 2. Who purchased more—men or women in 2022?
-3. What are the different order statuses in 2022?
-4. List the top 10 states contributing to sales.
-5. What is the relationship between age and gender based on purchases?
-6. Which channel contributed to maximum sales?
-7. What is the highest-selling category?
+3. List the top 10 states contributing to sales.
+4. What is the relationship between age and gender based on purchases?
+5. Which channel contributed to maximum sales?
 ## Key Insights
-- **Highest Sales Month**: December 2022.
+- **Highest Sales Month**: March 2022.
 - **Top Purchasing Gender**: Women purchased more than men in 2022.
-- **Top 10 States**: California, Texas, New York, etc.
-- **Highest-Selling Category**: Electronics.
-- **Most Popular Channel**: Online sales contributed the most.
+- **Top 10 States**: Maharashtra, Karnataka etc.
+- **Most Popular Channel**: Sales on Amazon contributed the most.
+- ** Adult Women purchased the most items. 

@@ -28,6 +28,10 @@ The dataset contains the following columns:
 2. **Data Processing**:
    - Segmented age into categories: Senior, Adult, Teenager.
    - Extracted month from the date for month-wise analysis.
+3. **Data Analysis**:
+   - Created pivot tables to summarize sales and orders.
+   - Generated charts (e.g., bar charts, line charts, pie chart) to visualise trends.
+   - Derived key insights from the analysis.
   
 ## Questions Answered
 1. Which month had the highest sales and orders?
@@ -37,3 +41,9 @@ The dataset contains the following columns:
 5. What is the relationship between age and gender based on purchases?
 6. Which channel contributed to maximum sales?
 7. What is the highest-selling category?
+## Key Insights
+- **Highest Sales Month**: December 2022.
+- **Top Purchasing Gender**: Women purchased more than men in 2022.
+- **Top 10 States**: California, Texas, New York, etc.
+- **Highest-Selling Category**: Electronics.
+- **Most Popular Channel**: Online sales contributed the most.
